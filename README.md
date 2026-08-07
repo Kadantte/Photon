@@ -1,5 +1,6 @@
 <h1 align="center">
   <br>
+
   <a href="https://github.com/s0md3v/Photon"><img src="https://image.ibb.co/h5OZAK/photonsmall.png" alt="Photon"></a>
   <br>
   Photon
@@ -34,7 +35,7 @@
 </p>
 
 ### Sponsors
-<a href="https://nubela.co/"><img width="10%" alt="image" src="https://github.com/user-attachments/assets/6ea3ea2a-5e02-4e5d-8435-33657ebd0971" /></a> website: [nubela.co](https://nubela.co/)\
+<a href="https://nubela.co/?utm_source=github&utm_medium=sponsorship&utm_campaign=oss_sponsorships&utm_content=github_readme&utm_id=py-photon"><img width="10%" alt="image" src="https://github.com/user-attachments/assets/694d51d4-8bc6-43a6-aa2c-a0ae76a1439e" /></a> website: [nubela.co](https://nubela.co/?utm_source=github&utm_medium=sponsorship&utm_campaign=oss_sponsorships&utm_content=github_readme&utm_id=py-photon)\
 Pull fresh and rich B2B profile data given a URL, in real-time.
 
 ### Key Features
